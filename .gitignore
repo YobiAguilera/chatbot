@@ -1,0 +1,13 @@
+# Archivos de compilación y carpetas temporales
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+.vs/
+
+# Archivos de configuración sensibles
+appsettings.json
+appsettings.Development.json
